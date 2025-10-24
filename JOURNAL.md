@@ -13,7 +13,7 @@ Went through the old onboard tutorial to understand parts needed, and most impor
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--bfb7f7fbfdc6b95f1b95ff2c8f0223dcb451bfe0/image.png)
   
 
-## 10/24/2025 4 PM - Made Schematic  
+## 10/24/2025 4:46 PM - Made Schematic  
 
 I made the schematic although it was very basic due to it being only 4 components .
 
@@ -25,4 +25,12 @@ Components :
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--ffed077a1af284d0d50cec6895c91b8e01bc5b72/image.png)
   
+
+## 10/24/2025 4:48 PM - Made the pcb layout  
+
+Completed the pcb layout.
+Positioned the components and ignored a ludicrous amount of drc rules as the antenna doesn't comply to nearly any rules for it.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--219e0efb057084917eaecbd2eb758f63cb9a9d0c/image.png)
+   
 
