@@ -1,5 +1,6 @@
 # nfc-card
 For design proccess look at [JOURNAL.md](https://github.com/Acidicts/nfc-card/blob/main/JOURNAL.md)
+Made with [hacker-card](https://jams.hackclub.com/jam/hacker-card) tutorial
 
 The designs for a nfc card.
 Although costs for this are too high for production due to lcsc requiring you to order in bulk and not specfic amounts.
