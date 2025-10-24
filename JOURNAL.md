@@ -6,10 +6,23 @@
   ==================================================================
 -->
 
-## 10/24/2025 - Looked at the old onboard tutorial  
+## 10/24/2025 3 PM - Looked at the old onboard tutorial  
 
 Went through the old onboard tutorial to understand parts needed, and most importantly how to change colour of the pcb using different layers. Here is the [website](https://jams.hackclub.com/jam/hacker-card).
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--bfb7f7fbfdc6b95f1b95ff2c8f0223dcb451bfe0/image.png)
+  
+
+## 10/24/2025 4 PM - Made Schematic  
+
+I made the schematic although it was very basic due to it being only 4 components .
+
+Components :
+- The chip
+- Resistor ( 47 Ohms )
+- LED ( 2V Red )
+- Antenna ( Community thing )
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--ffed077a1af284d0d50cec6895c91b8e01bc5b72/image.png)
   
 
