@@ -44,3 +44,12 @@ Added fine tuning onto different outlines.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE0MywicHVyIjoiYmxvYl9pZCJ9fQ==--dd67b0d0853cc726af69ec762df0c90c637bdc7f/image.png)
   
 
+## 10/24/2025 5 PM - Costs / BOM  
+
+Assembled costs and BOMs but due to min item order the parts cost is much larger than wanted or expected.
+This led to my decision of using this project for tickets.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--5aa3339c41960222d1678bd59e59fe05fea623d5/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--bd0c24db06943c2d75f7daeaa97147e409085c25/image.png)
+  
+
