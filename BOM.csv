@@ -1,0 +1,8 @@
+﻿Item,Price,Quantity,Shipping,Supplier,Total
+PCB, $6.71 ,5, $3.15 ,JLCPCB, $9.86 
+Capacitor 220nF, $0.54 ,100 (min order), Shared ,LCSC, $0.54 
+Red LED, $0.58 ,100 (min order), Shared ,LCSC, $0.58 
+47 Ohm Resistor, $0.11 ,100 (min order), Shared ,LCSC, $0.11 
+NFC Chip, $21.24 ,47 (min order), Shared ,LCSC, $21.24 
+LCSC Shipping, $-   ,1, $5.68 ,LCSC, $5.68 
+,,,,, $38.01 
