@@ -26,7 +26,7 @@ Components :
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--ffed077a1af284d0d50cec6895c91b8e01bc5b72/image.png)
   
 
-## 10/24/2025 4:48 PM - Made the pcb layout  
+## 10/24/2025 4:48 PM - Made the pcb layout - 0.2 hrs  
 
 Completed the pcb layout.
 Positioned the components and ignored a ludicrous amount of drc rules as the antenna doesn't comply to nearly any rules for it.
