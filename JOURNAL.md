@@ -13,7 +13,7 @@ Went through the old onboard tutorial to understand parts needed, and most impor
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--bfb7f7fbfdc6b95f1b95ff2c8f0223dcb451bfe0/image.png)
   
 
-## 10/24/2025 4:46 PM - Made Schematic  
+## 10/24/2025 4:46 PM - Made Schematic - 0.2 hrs  
 
 I made the schematic although it was very basic due to it being only 4 components .
 
