@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/24/2025 3 PM - Looked at the old onboard tutorial  
+## 10/24/2025 3 PM - Looked at the old onboard tutorial - 0.4hrs  
 
 Went through the old onboard tutorial to understand parts needed, and most importantly how to change colour of the pcb using different layers. Here is the [website](https://jams.hackclub.com/jam/hacker-card).
 
