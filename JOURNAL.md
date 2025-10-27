@@ -34,7 +34,7 @@ Positioned the components and ignored a ludicrous amount of drc rules as the ant
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--219e0efb057084917eaecbd2eb758f63cb9a9d0c/image.png)
    
 
-## 10/24/2025 4:51 PM - Added Decoration to it  
+## 10/24/2025 4:51 PM - Added Decoration to it - 1.5 hrs  
 
 Decided to use the jlcpcb colourful silkscreen as it enables more designs to be used.
 Used an orpheus sticker image and the HackClub anime sticker with Japanese writing on it.
